@@ -1,2 +1,2 @@
 # WEB-DEVELOPMENT-PROJECTS
-Heyyy!!!!!!!! guys i have started learning web development and here is  are my projects.
+Heyyy!!!!!!!! guys i have started learning web development and here  are my projects.
